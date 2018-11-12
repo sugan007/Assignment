@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="* &lt;p&gt; This" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="* This"/>
+			<item value="to returns"/>
+			<item value="else part"/>
+			<item value="This asdf"/>
+			<item value="This"/>
+			<item value="constr"/>
+			<item value="null area"/>
+			<item value="book."/>
+			<item value=";"/>
+			<item value="5"/>
+			<item value="ln("/>
+			<item value="getTextOf"/>
+			<item value="getTextOf("/>
+			<item value="2"/>
+			<item value="xath"/>
+		</list>
+		<list key="replacehistory">
+			<item value="* &lt;p&gt; This"/>
+			<item value="to return"/>
+			<item value=""/>
+			<item value=","/>
+			<item value="index"/>
+			<item value="ln(book."/>
+			<item value="getText"/>
+			<item value="updateAvailability("/>
+			<item value="5"/>
+			<item value="xpath"/>
+			<item value="results_xath, index"/>
+			<item value="_xpath"/>
+			<item value="1"/>
+			<item value="getRootElement(results_xpath, 0)"/>
+			<item value="results.get(0)"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="284" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="391" key="DIALOG_HEIGHT"/>
+		<item value="860" key="DIALOG_X_ORIGIN"/>
+		<item value="203" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
