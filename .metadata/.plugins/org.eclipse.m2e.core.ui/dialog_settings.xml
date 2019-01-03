@@ -2,10 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="simplemaven"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="simplemaven"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -50,6 +52,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\sukumarb\Desktop\desktop\Assignment\SDETAssignment"/>
 			<item value="C:\Users\sukumarb\Desktop\Assignment\SDETAssignment\src\main\java\core\CommonMethods.java"/>
 		</list>
 		<list key="projectNameTemplate">

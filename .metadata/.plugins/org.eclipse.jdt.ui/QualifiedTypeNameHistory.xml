@@ -39,8 +39,8 @@
 <fullyQualifiedTypeName name="atu.testng.reports.listeners.MethodListener"/>
 <fullyQualifiedTypeName name="atu.testng.reports.listeners.ConfigurationListener"/>
 <fullyQualifiedTypeName name="atu.testng.reports.ATUReports"/>
-<fullyQualifiedTypeName name="core.CommonMethods"/>
 <fullyQualifiedTypeName name="page.HomePage"/>
 <fullyQualifiedTypeName name="page.SearchResultsOf_BooksCategory_Page"/>
 <fullyQualifiedTypeName name="atu.testrecorder.ATUTestRecorder"/>
+<fullyQualifiedTypeName name="core.CommonMethods"/>
 </qualifiedTypeNameHistroy>
